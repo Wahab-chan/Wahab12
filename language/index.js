@@ -1,1 +1,0 @@
-exports.indonesia = require('./indonesia')
